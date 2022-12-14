@@ -37,7 +37,7 @@
 | [Bathymetric inversion for nearshore areas with video monitoring and deep learning](https://github.com/AurelienCallens/FCN_bathy) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=flat-square&logo=tensorflow) | 
 | [Dash application to explore errors made by deep learning network](https://github.com/AurelienCallens/Dash_app_MAE)| ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Dash](https://img.shields.io/badge/Dash-black?style=flat-square&logo=dash) |
 | [Shiny application to label images](https://github.com/AurelienCallens/Shiny_Classifier)| ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R) ![Shiny](https://img.shields.io/badge/Shiny-black?style=flat-square) |
-| [My data science Blog powered by Hugo and R blogdown](https://github.com/AurelienCallens/AurelienCallens.github.io) | ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R) ![Hugo](https://img.shields.io/badge/Hugo-black?style=flat-square&logo=hugo) | 
+| [My data science Blog powered by Hugo and R blogdown](https://aureliencallens.github.io/) | ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=R) ![Hugo](https://img.shields.io/badge/Hugo-black?style=flat-square&logo=hugo) | 
   
 <h2 align="left"> My Github Stats </h2>
   
