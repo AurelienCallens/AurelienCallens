@@ -1,7 +1,7 @@
 
 <h1 align="center"> Aurélien Callens </h1>
 
-<h2 align="center"> Data Scientist | PhD in Applied Mathematics </h2>
+<h2 align="center"> Data Scientist | R&D | PhD in Applied Mathematics </h2>
 
 <p align="center">
 <br/>
